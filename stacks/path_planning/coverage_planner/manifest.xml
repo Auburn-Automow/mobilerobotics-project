@@ -1,0 +1,17 @@
+<package>
+  <description brief="coverage_planner">
+
+     coverage_planner
+
+  </description>
+  <author>William Woodall</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/coverage_planner</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="roslib"/>
+
+</package>
+
+
